@@ -2,6 +2,6 @@
 
 ## new file added
 
-very bad update
+changed
 
-update branch made 
+changed to bad 
